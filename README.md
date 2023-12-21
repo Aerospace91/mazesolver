@@ -1,2 +1,2 @@
-# mazesolver
-Maze Solver
+# Maze Solver
+Follow Along Project from boot.dev
